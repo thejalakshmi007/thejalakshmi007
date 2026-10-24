@@ -1,13 +1,12 @@
 <img width="2095" height="751" alt="image" src="https://github.com/user-attachments/assets/3ad38c08-6884-49ce-a798-740d548dea06" />
 <p align="center">
   <img
-   src="https://github.com/user-attachments/assets/40304756-3b0e-49b9-a139-060c5927729f"
-  width="400" 
-    height="250"
-  alt="Cream and Black Minimalist Communication Instagram Reel" 
-    />
-</p>
+    width="100" 
+    height="120" 
+    alt="image" 
+    src="https://github.com/user-attachments/assets/c771a967-eb6c-4216-b7a7-da38c0290c27" />
 
+</p>
 
 
 <h1 align="center">I AM THEJALAKSHMI!✨</h1>
