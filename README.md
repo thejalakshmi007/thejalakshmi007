@@ -2,8 +2,8 @@
 <p align="center">
   <img
    src="https://github.com/user-attachments/assets/40304756-3b0e-49b9-a139-060c5927729f"
-  width="60" 
-    height="20"
+  width="400" 
+    height="100"
   alt="Cream and Black Minimalist Communication Instagram Reel" 
     />
 </p>
