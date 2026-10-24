@@ -1,7 +1,7 @@
 <img width="2095" height="751" alt="image" src="https://github.com/user-attachments/assets/3ad38c08-6884-49ce-a798-740d548dea06" />
 
 <p align="center">
-<img width="100" height="100" alt="Recording 2026-10-24 164930" src="https://github.com/user-attachments/assets/23f67431-c7b0-40ee-af5d-a1c18dc5ae0b" />
+<img width="150" height="150" alt="Recording 2026-10-24 164930" src="https://github.com/user-attachments/assets/23f67431-c7b0-40ee-af5d-a1c18dc5ae0b" />
 </p>
 <h1 align="center">I AM THEJALAKSHMI!✨</h1>
 
